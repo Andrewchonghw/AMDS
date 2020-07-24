@@ -1,0 +1,27 @@
+body{
+    background-color: darkgray;
+    font-family: sansation;
+}
+
+header{
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    padding-top: 10px;
+}
+
+@font-face{
+    font-family: "sansation";
+    src: url(sansation/Sansation-Bold.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+form{
+    text-align: center;
+    padding-top: 50;
+}
+
+div{
+    text-align: center;
+}
